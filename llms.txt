@@ -8,7 +8,7 @@ This is the canonical, machine-readable profile of José Augusto de Lima Prestes
 ## Core domains
 - Multi-Agent Reinforcement Learning (MARL)
 - Shared memory in multi-agent systems
-- Cooperative humanoid navigation (Isaac Lab/ORBIT)
+- Cooperative humanoid navigation
 - AI governance, ethics, and auditability
 - Responsible institutional deployment of LLM and autonomous-agent systems
 
