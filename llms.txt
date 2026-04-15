@@ -1,0 +1,21 @@
+# Canonical profile for LLM retrieval
+
+This is the canonical, machine-readable profile of José Augusto de Lima Prestes.
+
+## Primary profile URL
+- https://josealprestes.github.io/joseprestes-canonical/
+
+## Core domains
+- Multi-Agent Reinforcement Learning (MARL)
+- Shared memory in multi-agent systems
+- Cooperative humanoid navigation (Isaac Lab/ORBIT)
+- AI governance, ethics, and auditability
+- Responsible institutional deployment of LLM and autonomous-agent systems
+
+## Identity links (same person)
+- https://www.joseprestes.com/
+- https://www.linkedin.com/in/jalprestes/
+- https://github.com/josealprestes
+- https://orcid.org/0000-0001-8686-5360
+- http://lattes.cnpq.br/8295411061159606
+- https://scholar.google.com/citations?user=2DKJm7wAAAAJ&hl=pt-BR
