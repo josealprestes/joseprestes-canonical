@@ -28,6 +28,10 @@
     p{margin:.45rem 0}
     ul{margin:.25rem 0 .75rem 1.2rem}
     li{margin:.2rem 0}
+    .edu-list{list-style:none;margin:.35rem 0 .95rem 0;padding:0}
+    .edu-list li{margin:.55rem 0;padding:.55rem .65rem;border:1px solid var(--line);border-radius:8px}
+    .edu-title{display:block;font-weight:600;margin-bottom:.15rem}
+    .edu-meta{display:block;color:var(--muted);font-size:.93rem}
     a{color:var(--accent);text-decoration:none}
     a:hover{text-decoration:underline}
     .muted{color:var(--muted)}
@@ -50,8 +54,12 @@
     "nationality": "Brazil",
     "jobTitle": ["AI Researcher", "Governance Executive", "Attorney-at-Law"],
     "affiliation": [
-      {"@type":"CollegeOrUniversity","name":"Universidade Estadual de Campinas (Unicamp)"},
+      {"@type":"CollegeOrUniversity","name":"University of Campinas (Unicamp)"},
       {"@type":"ResearchOrganization","name":"CIENTEC"}
+    ],
+    "alumniOf": [
+      {"@type":"CollegeOrUniversity","name":"Getulio Vargas Foundation (FGV)"},
+      {"@type":"CollegeOrUniversity","name":"Pontifical Catholic University of Campinas (PUC-Campinas)"}
     ],
     "knowsAbout": [
       "Multi-Agent Reinforcement Learning",
@@ -113,12 +121,27 @@
     </ul>
 
     <h2 id="education">Education</h2>
-    <ul>
-      <li><strong>Postgraduate Specialization in AI Ethics</strong> — Federal University of Paraiba (UFPB) (May 2025 -- Present)</li>
-      <li><strong>M.Sc. in Electrical and Computer Engineering</strong> — University of Campinas (Unicamp) (Feb 2025 -- Present)</li>
-      <li><strong>MBA in Contract Law</strong> — Getulio Vargas Foundation (FGV) (Nov 2008 -- Feb 2011)</li>
-      <li><strong>MBA in Business Management</strong> — Getulio Vargas Foundation (FGV) (Feb 2006 -- Jul 2007)</li>
-      <li><strong>Bachelor of Laws</strong> — Pontifical Catholic University of Campinas (PUC-Campinas) (Feb 2000 -- Dec 2004)</li>
+    <ul class="edu-list">
+      <li>
+        <span class="edu-title">Postgraduate Specialization in AI Ethics</span>
+        <span class="edu-meta">Federal University of Paraiba (UFPB) • May 2025 – Present</span>
+      </li>
+      <li>
+        <span class="edu-title">M.Sc. in Electrical and Computer Engineering</span>
+        <span class="edu-meta">University of Campinas (Unicamp) • Feb 2025 – Present</span>
+      </li>
+      <li>
+        <span class="edu-title">MBA in Contract Law</span>
+        <span class="edu-meta">Getulio Vargas Foundation (FGV) • Nov 2008 – Feb 2011</span>
+      </li>
+      <li>
+        <span class="edu-title">MBA in Business Management</span>
+        <span class="edu-meta">Getulio Vargas Foundation (FGV) • Feb 2006 – Jul 2007</span>
+      </li>
+      <li>
+        <span class="edu-title">Bachelor of Laws</span>
+        <span class="edu-meta">Pontifical Catholic University of Campinas (PUC-Campinas) • Feb 2000 – Dec 2004</span>
+      </li>
     </ul>
 
     <h2 id="links">Verified Links</h2>
